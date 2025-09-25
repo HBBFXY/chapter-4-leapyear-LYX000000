@@ -1,4 +1,4 @@
-def main():
+
     try:
         year = int(input("请输入年份: "))
         
